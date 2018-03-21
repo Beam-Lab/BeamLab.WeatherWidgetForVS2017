@@ -1,0 +1,1 @@
+# BeamLab.WeatherWidgetForVS2017
