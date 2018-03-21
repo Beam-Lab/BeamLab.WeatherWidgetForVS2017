@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeamLab.WeatherWidgetVS2017", "BeamLab.WeatherWidgetVS2017\BeamLab.WeatherWidgetVS2017.csproj", "{EAF4B264-1018-4506-9CD9-22DB7B181F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF4B264-1018-4506-9CD9-22DB7B181F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF4B264-1018-4506-9CD9-22DB7B181F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF4B264-1018-4506-9CD9-22DB7B181F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF4B264-1018-4506-9CD9-22DB7B181F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E62D1CA-C55F-4554-97DB-E70EE6C33BF5}
+	EndGlobalSection
+EndGlobal
